@@ -1,13 +1,13 @@
 # Fylo Website
 
-Fylo landing page with dark/light mode switcher from my Tailwind course and from [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
+https://fylopeq.vercel.app/
 
 ## Usage
 
 Install dependencies
 
 ```
-npm Install
+npm install
 ```
 
 Run Tailwind CLI
